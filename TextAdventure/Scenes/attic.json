@@ -1,0 +1,16 @@
+{
+  "attic": {
+    "description": "The attic is silent. Moonlight shines through a broken window. You feel like you’ve uncovered something best left forgotten.",
+    "connections": ["basement"],
+    "interactables": {
+      "chest": {
+        "description": "An empty chest. Whatever was here is long gone.",
+        "item": null
+      },
+      "window": {
+        "description": "You can see the grounds outside. Freedom is close.",
+        "item": null
+      }
+    }
+  }
+}

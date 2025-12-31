@@ -1,0 +1,16 @@
+{
+  "library": {
+    "description": "Tall shelves packed with moldy books surround you. The smell of paper and decay is overwhelming.",
+    "connections": ["hallway", "basement"],
+    "interactables": {
+      "bookshelf": {
+        "description": "Most books crumble at your touch. One shelf seems disturbed.",
+        "item": "crowbar"
+      },
+      "desk": {
+        "description": "An old writing desk. The drawers are empty.",
+        "item": null
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "foyer": {
+    "description": "You stand in the foyer of an abandoned manor. Dust coats the floor and a cold silence fills the air.",
+    "connections": ["hallway"],
+    "interactables": {
+      "coat rack": {
+        "description": "An old coat rack. A single coat still hangs here.",
+        "item": "rusty key"
+      },
+      "mirror": {
+        "description": "A cracked mirror. Your reflection looks uneasy.",
+        "item": null
+      }
+    }
+  }
+}

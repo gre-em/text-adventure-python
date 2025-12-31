@@ -1,0 +1,17 @@
+{
+  "hallway": {
+    "description": "A long hallway stretches before you. A locked door stands to the north.",
+    "connections": ["foyer", "library"],
+    "interactables": {
+      "locked door": {
+        "description": "A sturdy wooden door. It seems to be locked.",
+        "returnItem": "rusty key",
+        "returnMessage": "The rusty key turns with effort. The door unlocks."
+      },
+      "floor": {
+        "description": "The floorboards creak with every step.",
+        "item": null
+      }
+    }
+  }
+}

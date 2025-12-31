@@ -1,0 +1,17 @@
+{
+  "basement": {
+    "description": "A damp basement with stone walls. Water drips somewhere in the darkness.",
+    "connections": ["library", "attic"],
+    "interactables": {
+      "crate": {
+        "description": "A heavy wooden crate nailed shut.",
+        "returnItem": "crowbar",
+        "returnMessage": "You pry open the crate, revealing a passage upward."
+      },
+      "pipes": {
+        "description": "Old pipes rattle softly.",
+        "item": null
+      }
+    }
+  }
+}
